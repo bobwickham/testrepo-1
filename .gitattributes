@@ -1,2 +1,4 @@
 shakespeare.sql filter=lfs diff=lfs merge=lfs -text
 Release[[:space:]]1/shakespeare.sql filter=lfs diff=lfs merge=lfs -text
+Release[[:space:]]2/milton.sql filter=lfs diff=lfs merge=lfs -text
+Release3/milton.sql filter=lfs diff=lfs merge=lfs -text
